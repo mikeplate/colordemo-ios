@@ -1,13 +1,4 @@
-//
-//  AppDelegate.m
-//  ColorDemo
-//
-//  Created by Mike P on 2013-03-03.
-//  Copyright (c) 2013 Mikael Plate. All rights reserved.
-//
-
 #import "AppDelegate.h"
-
 #import "ViewController.h"
 
 @implementation AppDelegate

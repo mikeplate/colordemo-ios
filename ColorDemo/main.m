@@ -1,13 +1,4 @@
-//
-//  main.m
-//  ColorDemo
-//
-//  Created by Mike P on 2013-03-03.
-//  Copyright (c) 2013 Mikael Plate. All rights reserved.
-//
-
 #import <UIKit/UIKit.h>
-
 #import "AppDelegate.h"
 
 int main(int argc, char *argv[])
